@@ -1,0 +1,31 @@
+## About Me
+
+Greetings! I am Suhas Kshirsagar, currently pursuing a BSc in Computer Science at Fergusson College, Pune. My proficiency extends across diverse programming languages such as C, C++, HTML, CSS, and JavaScript. In addition to my strong foundation in data structures and algorithms, I am deeply fascinated by the possibilities in artificial intelligence (AI) and machine learning (ML).
+
+## Contact Information
+
+- Email: ssksuhas02@gmail.com
+- LinkedIn: [Suhas Kshirsagar on LinkedIn]()
+
+## Technical Expertise
+
+- **Languages:** C, C++, HTML, CSS, JavaScript
+- **Technologies:** AI, ML
+- **Problem Solving:** Data Structures and Algorithms
+
+## Interests and Projects
+
+I am driven by a passion for utilizing technology to address practical challenges.
+
+1. **Web Development:**
+   - Crafting visually appealing and user-friendly web applications using HTML, CSS, and JavaScript.
+
+## Certificates
+
+Explore my certificates [here](#) to witness my commitment to continuous learning and skill development.
+
+## Repository Structure
+
+Navigate through the various branches and directories within this repository to discover a diverse array of projects. From algorithmic problem-solving to web development and AI/ML experiments, there's a lot to explore.
+
+Thank you for visiting my GitHub repository! Happy coding!

@@ -5,7 +5,7 @@ Greetings! I am Suhas Kshirsagar, currently pursuing a BSc in Computer Science a
 ## Contact Information
 
 - Email: ssksuhas02@gmail.com
-- LinkedIn: [Suhas Kshirsagar on LinkedIn]()
+- LinkedIn: [Suhas Kshirsagar on LinkedIn](https://www.linkedin.com/in/suhas-kshirsagar-778682274/)
 
 ## Technical Expertise
 
@@ -21,7 +21,9 @@ I am driven by a passion for utilizing technology to address practical challenge
 
 ## Certificates
 
-Explore my certificates [here](#) to witness my commitment to continuous learning and skill development.
+Explore my certificates to witness my commitment to continuous learning and skill development.
+1.AI AND ML:https://learn.younity.in/share-certificate?serialno=YV67G3EC
+2.PYTHON DATA STRUCTURES:https://coursera.org/share/42c04a7edcd8a9f1303d63691cfebf3f
 
 ## Repository Structure
 

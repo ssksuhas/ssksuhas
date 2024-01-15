@@ -22,8 +22,8 @@ I am driven by a passion for utilizing technology to address practical challenge
 ## Certificates
 
 Explore my certificates to witness my commitment to continuous learning and skill development.
-1.AI AND ML:https://learn.younity.in/share-certificate?serialno=YV67G3EC
-2.PYTHON DATA STRUCTURES:https://coursera.org/share/42c04a7edcd8a9f1303d63691cfebf3f
+-1.AI AND ML:https://learn.younity.in/share-certificate?serialno=YV67G3EC
+-2.PYTHON DATA STRUCTURES:https://coursera.org/share/42c04a7edcd8a9f1303d63691cfebf3f
 
 ## Repository Structure
 

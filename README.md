@@ -16,8 +16,7 @@ Greetings! I am Suhas Kshirsagar, currently pursuing a BSc in Computer Science a
 ## Interests and Projects
 
 I am driven by a passion for utilizing technology to address practical challenges.
-
-1. **Web Development:**
+   **Web Development:**
    - Crafting visually appealing and user-friendly web applications using HTML, CSS, and JavaScript.
 
 ## Certificates

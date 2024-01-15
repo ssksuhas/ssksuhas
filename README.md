@@ -1,6 +1,6 @@
 ## About Me
 
-Greetings! I am Suhas Kshirsagar, currently pursuing a BSc in Computer Science at Fergusson College, Pune. My proficiency extends across diverse programming languages such as C, C++, HTML, CSS, and JavaScript. In addition to my strong foundation in data structures and algorithms, I am deeply fascinated by the possibilities in artificial intelligence (AI) and machine learning (ML).
+Greetings! I am Suhas Kshirsagar, currently pursuing a BSc in Computer Science at Fergusson College, Pune. My proficiency extends across diverse programming languages such as C, C++, Java, Python, HTML, CSS, and JavaScript. In addition to my strong foundation in data structures and algorithms, I am deeply fascinated by the possibilities in artificial intelligence (AI) and machine learning (ML).
 
 ## Contact Information
 
@@ -9,7 +9,7 @@ Greetings! I am Suhas Kshirsagar, currently pursuing a BSc in Computer Science a
 
 ## Technical Expertise
 
-- **Languages:** C, C++, HTML, CSS, JavaScript
+- **Languages:** C, C++, Java, Python, HTML, CSS, JavaScript
 - **Technologies:** AI, ML
 - **Problem Solving:** Data Structures and Algorithms
 

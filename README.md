@@ -27,8 +27,5 @@ Explore my certificates to witness my commitment to continuous learning and skil
 
 2.PYTHON DATA STRUCTURES:https://coursera.org/share/42c04a7edcd8a9f1303d63691cfebf3f
 
-## Repository Structure
-
-Navigate through the various branches and directories within this repository to discover a diverse array of projects. From algorithmic problem-solving to web development and AI/ML experiments, there's a lot to explore.
 
 Thank you for visiting my GitHub repository! Happy coding!
